@@ -1,9 +1,3 @@
-# pdf_splitter_project
-
-This project automates the process of downloading a PDF from a given URL, splitting it, and categorizing the contents into predefined musical instrument categories. It simplifies the workflow by 
- 
-
-
 # PDF Splitter and Classifier
 
 This project automates the process of downloading a PDF from a given URL, splitting it, and categorizing the contents into predefined musical instrument categories. It simplifies the workflow by automating PDF processing and classification based on instrument names found in the text of the PDF.
